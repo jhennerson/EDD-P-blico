@@ -1,8 +1,8 @@
-/*1 – Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura deve
-conter o número de matricula do aluno, seu nome e as notas de três provas. Agora,
+/*1 â€“ Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura deve
+conter o nÃºmero de matricula do aluno, seu nome e as notas de trÃªs provas. Agora,
 escreva um programa que leia os dados de cinco alunos e os armazene-os em um bloco
-de memória alocado dinamicamente. Em seguida, exiba um relatório com o nome e as
-notas do aluno que possua a maior média geral dentre os cinco.
+de memÃ³ria alocado dinamicamente. Em seguida, exiba um relatÃ³rio com o nome e as
+notas do aluno que possua a maior mÃ©dia geral dentre os cinco.
 */
 
 #include <stdio.h>
@@ -26,7 +26,7 @@ void main(void) {
 
     ALUNO *aluno = (ALUNO*) malloc(qtdAlunos * sizeof(ALUNO));
     if(aluno == NULL) {
-        printf("\nEspaço insuficiente!");
+        printf("\nEspaÃ§o insuficiente!");
         exit(1);
     }
 
@@ -40,15 +40,15 @@ void main(void) {
 }
 
 void tag(char palavra[]) {
-    printf("\+-------------------------------------+\n");
+    printf("+-------------------------------------+\n");
     printf("\t\t%s\n", palavra);
-    printf("\+-------------------------------------+\n");
+    printf("+-------------------------------------+\n");
 }
 
 void cadastro(ALUNO *aluno, int qtdAlunos, int qtdProvas) {
         for(int i = 0; i < qtdAlunos; i++) {
         tag("ALUNOS");
-        printf("\nInsira a MATRÍCULA do aluno(a)\n");
+        printf("\nInsira a MATRÃCULA do aluno(a)\n");
         scanf("%d", &aluno[i].matricula);
         fflush(stdin);
         printf("\nInsira o NOME do aluno(a) %d\n", aluno[i].matricula);
@@ -91,7 +91,7 @@ void resultados(ALUNO alunoMaiorMedia, int qtdProvas) {
     tag("RESULTADOS");
 
     printf("\nMelhores notas da turma:\n");
-    printf("\nMatrícula: %d", alunoMaiorMedia.matricula);
+    printf("\nMatrÃ­cula: %d", alunoMaiorMedia.matricula);
     printf("\nNome do aluno: %s", alunoMaiorMedia.nome);
     for(int i = 0; i < qtdProvas; i++) {
         printf("\nNota %d: %d", i+1, alunoMaiorMedia.nota[i]);
