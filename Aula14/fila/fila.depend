@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653235271 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula14\fila\filad.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+
+1653235271 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula14\fila\filad.h
+
+1653235078 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula14\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+

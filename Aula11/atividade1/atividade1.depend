@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1651279291 source:i:\2sem\top-secret\estruturadedados\aula11\atividade1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+
+1651279367 i:\2sem\top-secret\estruturadedados\aula11\atividade1\listasequencial.h
+
+1651279374 source:i:\2sem\top-secret\estruturadedados\aula11\atividade1\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+

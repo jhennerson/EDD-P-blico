@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1649599724 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio3\calculo.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"calculo.h"
+
+1649599585 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio3\calculo.h
+
+1649631178 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"calculadora.h"
+
+1649628648 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio3\calculadora.h
+
+1649631215 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio3\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"calculadora.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649526996 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio1\minhalib.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"minhalib.h"
+
+1649526643 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio1\minhalib.h
+
+1649527067 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula8\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"minhalib.h"
+

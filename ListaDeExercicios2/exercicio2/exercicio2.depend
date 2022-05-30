@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651356192 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\listadeexercicios2\exercicio2\retangulo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"retangulo.h"
+
+1651355261 c:\users\jhennerson\documents\github\top-secret\estruturadedados\listadeexercicios2\exercicio2\retangulo.h
+
+1651356553 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\listadeexercicios2\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"retangulo.h"
+

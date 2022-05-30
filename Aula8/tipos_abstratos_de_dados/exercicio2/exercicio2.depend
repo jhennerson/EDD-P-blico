@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649461502 source:c:\users\aluno\documents\nova pasta\aula8\exercicio2\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+
+1649462998 c:\users\aluno\documents\nova pasta\aula8\exercicio2\ponto.h
+
+1649461759 source:c:\users\aluno\documents\nova pasta\aula8\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+

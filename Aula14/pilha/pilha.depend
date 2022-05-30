@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653240999 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula14\pilha\pilhad.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
+1653241036 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula14\pilha\pilhad.h
+

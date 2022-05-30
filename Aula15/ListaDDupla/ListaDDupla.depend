@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653830847 source:c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula15\listaddupla\listaddupla.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDDupla.h"
+
+1653830456 c:\users\jhennerson\documents\github\top-secret\estruturadedados\aula15\listaddupla\listaddupla.h
+

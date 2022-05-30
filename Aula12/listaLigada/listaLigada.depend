@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651882608 source:i:\2sem\top-secret\estruturadedados\aula12\listaligada\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1651882608 i:\2sem\top-secret\estruturadedados\aula12\listaligada\listaligada.h
+
